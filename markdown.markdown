@@ -1,6 +1,6 @@
 
 # Lenn van der Heijden
-* When you have a dream, you've got to grab it *
+_When you have a dream, you've got to grab it_
 ## i can work good in team.
 
 | birthday  | gender  |  fav food | fav color  |   |
