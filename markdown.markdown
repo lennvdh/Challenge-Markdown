@@ -8,7 +8,7 @@ _When you have a dream, you've got to grab it_
 | 19 mei  | man  | pizza  |  green |   |
 
 pinneapple on pizza:
-                    yes:- [] No:- [x]
+                    yes:- [ ] No:- [x]
 
 ### Hobbies
 
